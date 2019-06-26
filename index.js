@@ -59,6 +59,7 @@ while (menu == 0) {
             menu = 1;
             break;
         default:
+            alert('There is no option for that')
             break;
     }
 }
